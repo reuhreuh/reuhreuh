@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=reuhreuh&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
+  <h2>Active Projects : </h2>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=valorant-api-client&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=poolpm-hosky-tools&theme=tokyonight" />
+</div>
+
 <!--
 **reuhreuh/reuhreuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
