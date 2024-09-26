@@ -3,9 +3,9 @@
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=reuhreuh&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
   <h2>Active Projects : </h2>
-    <a href="https://github.com/reuhreuh/valorant-api-client"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=valorant-api-client&theme=tokyonight" /></a>
-    <a href="https://github.com/reuhreuh/henrikapi-val-client"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=henrikapi-val-client&theme=tokyonight" /></a>
-    <a href="https://github.com/reuhreuh/poolpm-hosky-tools"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=poolpm-hosky-tools&theme=tokyonight" /></a>
+    <a href="https://github.com/reuhreuh/valorant-api-client"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=valorant-api-client&theme=tokyonight" /></a>&nbsp;
+    <a href="https://github.com/reuhreuh/henrikapi-val-client"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=henrikapi-val-client&theme=tokyonight" /></a>&nbsp;
+    <a href="https://github.com/reuhreuh/poolpm-hosky-tools"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=poolpm-hosky-tools&theme=tokyonight" /></a>&nbsp;
 </div>
 
 <!--
