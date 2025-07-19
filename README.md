@@ -5,6 +5,7 @@
   <h2>Active Projects : </h2>
     <a href="https://github.com/reuhreuh/valorant-api-client"><img align="center" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=valorant-api-client&theme=tokyonight" /></a>
     <a href="https://github.com/reuhreuh/henrikapi-val-client"><img align="center" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=henrikapi-val-client&theme=tokyonight" /></a>
+    <a href="https://github.com/reuhreuh/fraturk"><img align="center" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=fraturk&theme=tokyonight" /></a>
     <a href="https://github.com/reuhreuh/poolpm-hosky-tools"><img align="center" style="padding: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=reuhreuh&repo=poolpm-hosky-tools&theme=tokyonight" /></a>
 </div>
 
